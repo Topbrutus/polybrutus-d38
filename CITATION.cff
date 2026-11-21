@@ -10,3 +10,5 @@ date-released: 2026-11-21
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d38
 abstract: "Exact labelled squared-distance metric with 43 unit points, 861 preserved parent pairs and separately stipulated weighted graph."
+doi: 10.5281/zenodo.24413606
+url: https://doi.org/10.5281/zenodo.24413606

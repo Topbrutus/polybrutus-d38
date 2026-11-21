@@ -23,6 +23,15 @@ python tests/independent_d38.py
 
 Both programs emit the same SHA-256 of `results/certificate_d38.json`. The frozen scientific tag D37, with its ancestral sources, is archived under `prior/d37/` as ordinary files, without nested Git metadata or submodules.
 
+## Official DOI and verified public release
+
+- **Official DOI:** [10.5281/zenodo.24413606](https://doi.org/10.5281/zenodo.24413606).
+- **Public Zenodo record:** https://zenodo.org/records/24413606, all 3 files verified against sizes and MD5 with Zenodo public API.
+- **Frozen scientific source:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d38/tree/v0.1.0), commit `ac8fd112fcd314092f106b210162ba1cc9879e9b`.
+- **Tag CI:** [GitHub Actions 44878988614](https://github.com/Topbrutus/polybrutus-d38/actions/runs/44878988614), success.
+- **Durable checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D38_PUBLICATION_2026-11-21.md .
+- **Publications registry:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/projects/POLYBRUTUS_X72_PUBLICATIONS_INDEX.md .
+
 ## Scientific materials
 
 - [Exact specification](SPECIFICATION_D38.md), [constructive proof and negative controls](PREUVE_D38.md), [provenance and limitations](PROVENANCE.md).
